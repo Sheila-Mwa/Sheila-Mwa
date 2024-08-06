@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheila Mwangi
-- 👀 I am a Bioinformatics enthusiast
+- 👀 I am a Bioinformatics enthusiast!
 
   
 
